@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable\\shopper_icon.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable\\shopper_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable\\share_via_barcode.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable\\share_via_barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable\\launcher_icon.png"
+    }
+]

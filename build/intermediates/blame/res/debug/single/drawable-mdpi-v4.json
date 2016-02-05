@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_stat_gcm.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-mdpi\\ic_stat_gcm.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_remove.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-mdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_next_item.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-mdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_previous_item.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-mdpi\\ic_action_previous_item.png"
+    }
+]

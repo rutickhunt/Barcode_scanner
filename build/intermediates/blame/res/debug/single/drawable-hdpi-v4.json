@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_remove.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-hdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\launcher_icon.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-hdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stat_gcm.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-hdpi\\ic_stat_gcm.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_previous_item.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-hdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shopper_icon.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-hdpi\\shopper_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_next_item.png",
+        "source": "C:\\Users\\HPP\\Desktop\\Barcode_scanner\\res\\drawable-hdpi\\ic_action_next_item.png"
+    }
+]

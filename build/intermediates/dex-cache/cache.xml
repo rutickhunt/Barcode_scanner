@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\exploded-aar\Barcode_scanner\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="347e51227f74daa24598f20b7bff10ab88ba3211">
+        <dex dex="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_84f292bf54179cbcd4db1176110439806522735f.jar" />
+    </item>
+    <item
+        jar="C:\Users\HPP\Desktop\Barcode_scanner\libs\libGoogleAnalyticsV2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6c48a1a1621e55c66fa6a381642916385c9dd781">
+        <dex dex="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\pre-dexed\debug\libGoogleAnalyticsV2_478d3f982a475b11325b894b6d8bf1fc7da698e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_221f5a4dd9adb12c1c082aff559cd1a40958dd8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\HPP\Desktop\Barcode_scanner\libs\com.google.zxing.client.android.captureactivity.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="daca75b7de34e1ca229682f2cd54b54e1c324be6">
+        <dex dex="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\pre-dexed\debug\com.google.zxing.client.android.captureactivity_6e76f0d2a0dee2358fc98b93558e63e7cb7933cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.1.1_a216192fe96034941bc942860d9b34b76be69ba7.jar" />
+    </item>
+    <item
+        jar="C:\Users\HPP\Desktop\Barcode_scanner\libs\gcm.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\pre-dexed\debug\gcm_5d3061653c6385e9084f478690baba64fba4005d.jar" />
+    </item>
+    <item
+        jar="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_5b354b1412c477aa5777b4fc081b87dfc1c1e10f.jar" />
+    </item>
+    <item
+        jar="C:\Users\HPP\Desktop\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_c7d80f6b4a124a4936d2d2721a9ec5071bea1d41.jar" />
+    </item>
+    <item
+        jar="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\HPP\Desktop\Barcode_scanner\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_15aaa882e1fbd72419496d6b3156da9d6b69483f.jar" />
+    </item>
+
+</items>
